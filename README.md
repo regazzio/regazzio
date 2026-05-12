@@ -1,16 +1,60 @@
-## Hi there 👋
+# Olá, eu sou Vinicius 👋
 
-<!--
-**regazzio/regazzio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Cursando Análise e Desenvolvimento de Sistemas na Fatec  
+🎮 Técnico em Programação de Jogos Digitais pela Etec Jornalista Roberto Marinho  
 
-Here are some ideas to get you started:
+💻 Desenvolvedor iniciante apaixonado por tecnologia, jogos e desenvolvimento web.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tecnologias
+- Java
+- Python
+- HTML
+- CSS
+- JavaScript
+- SQL
+- C#
+
+---
+
+## 📚 Projetos
+
+### 🏴‍☠️ One Piece Characters
+Projeto web desenvolvido utilizando HTML, CSS e JavaScript consumindo uma API de One Piece para exibir diversos personagens do anime.
+
+#### Funcionalidades
+- Listagem de personagens
+- Exibição de imagens
+- Informações dos personagens
+- Busca dinâmica
+- Interface temática inspirada em One Piece
+
+#### Tecnologias Utilizadas
+- HTML
+- CSS
+- JavaScript
+- API REST
+
+---
+### 🍄 Mario Style Game
+Projeto de jogo inspirado no universo Mario desenvolvido na Unity utilizando C#.
+
+#### Funcionalidades
+- Movimentação do personagem
+- Sistema de coleta de itens
+- Obstáculos e plataformas
+- Sistema de pontuação
+- Física básica e colisões
+
+#### Tecnologias Utilizadas
+- Unity
+- C#
+
+---
+
+### 📖 Tradutor de Palavras
+Projeto de tradutor de palavras utilizando Java no Back-End, API para comunicação de dados, SQL para armazenamento das palavras e HTML/CSS no Front-End.
+
+---
+
